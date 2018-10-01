@@ -1,0 +1,51 @@
+.container {
+    margin: 4px;
+	padding: 4px;
+	color: #0D4F8B; font-family: 'Source Sans Pro', sans-serif; font-size: 12px; font-weight: normal; 
+	height: 100px;
+}
+
+.selectionContainer {
+    margin: 4px;
+	padding: 4px;
+	color: #0D4F8B; font-family: 'Source Sans Pro', sans-serif; font-size: 12px; font-weight: normal; 
+	height: 120px;
+	background-color: #e6f2ff;
+}
+
+.fieldTitle {
+	color: #0D4F8B; font-family: 'Source Sans Pro', sans-serif; font-size: 12px; font-weight: normal;
+}
+
+.fieldValue {
+	color: #0D4F8B; font-family: 'Source Sans Pro', sans-serif; font-size: 12px; 
+}
+
+.fieldTitleExtra {
+	color: #0D4F8B; font-family: 'Source Sans Pro', sans-serif; font-size: 8px; font-weight: normal;
+}
+
+.fieldValueExtra {
+	color: #0D4F8B; font-family: 'Source Sans Pro', sans-serif; font-size: 10px; 
+}
+
+.search {
+	clear: both;
+}
+
+.jumbotron {
+	color: #2471A3; 
+	font-family: 'Source Sans Pro', sans-serif; 
+	font-size: 22px; 
+	clear: both; 
+	float: left; 
+	padding: 4px 4px;
+	height: 40px;
+}
+
+.restaurantContainer {
+	clear: both; 
+	float: left; 
+	padding: 4px 4px;
+	height: 40px;
+}
